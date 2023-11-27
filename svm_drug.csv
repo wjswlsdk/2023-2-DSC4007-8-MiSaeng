@@ -1,0 +1,11 @@
+source,target,label,label_prob
+Etoposide,breast cancer,1,0.7456
+Dactinomycin,breast cancer,1,0.7322
+Prednisone,breast cancer,1,0.6994
+Hydrocortisone,breast cancer,1,0.6735
+Vincristine,breast cancer,1,0.6706
+Topotecan,breast cancer,1,0.6702
+Teniposide,breast cancer,1,0.6183
+Prednisolone,breast cancer,1,0.6151
+Progesterone,breast cancer,1,0.5935
+Dasatinib,breast cancer,1,0.5915
