@@ -1,0 +1,11 @@
+source,target,label,label_prob
+Etoposide,breast cancer,0.990919,0.9909
+Hydrocortisone,breast cancer,0.87885183,0.8789
+Degarelix,breast cancer,0.8633353,0.8633
+Vincristine,breast cancer,0.84507245,0.8451
+Prednisone,breast cancer,0.823687,0.8237
+Testolactone,breast cancer,0.8213572,0.8214
+Dasatinib,breast cancer,0.72303796,0.723
+Estramustine,breast cancer,0.7068051,0.7068
+Dactinomycin,breast cancer,0.70131594,0.7013
+Everolimus,breast cancer,0.665042,0.665
